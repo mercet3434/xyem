@@ -1,5 +1,5 @@
 
-![x Yem Önizleme](readme.png)
+![x Yem Önizleme](./public/img/readme.png)
 x Yem - Web Projesi
 x Yem için geliştirilmiş, büyükbaş hayvan yemi satışı ve x bayiliği bilgilerini içeren modern ve mobil uyumlu bir tanıtım web sitesidir.
 
